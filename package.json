@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "project-2",
   "private": true,
@@ -25,3 +26,6 @@
     "vite": "^7.1.2"
   }
 }
+=======
+{}
+>>>>>>> a3e8f41a41fadb37c042f7acf49d42b8134828bc
